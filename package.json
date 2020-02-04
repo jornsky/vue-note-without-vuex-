@@ -1,0 +1,8 @@
+{
+  "name": "vue-note-without-vuex-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jornsky/vue-note-without-vuex-.git",
+  "author": "jornsky <1326820317@qq.com>",
+  "license": "MIT"
+}
